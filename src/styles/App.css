@@ -1,11 +1,15 @@
-/* src/App.css */
+src/App.css
 .App {
   font-family: Arial, sans-serif;
   max-width: 400px;
-  margin: 50px auto;.singup{
+  margin: 50px auto;
+
+  .singup{
     width: 30%;
     margin: 10rem 28rem;
   }
+
+
   .userinfo{
     display: flex;
     flex-direction: column;
@@ -74,3 +78,4 @@ button:hover {
 .error-message {
   color: red;
 }
+
